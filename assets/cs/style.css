@@ -64,7 +64,6 @@ body {
 /* ==========================================================dashboard sidebar */
 .dashboard-sidebar-col {
     background: #F4F8FB;
-    transition: right 3s ease;
 }
 
 .dashboard-sidebar {
@@ -584,7 +583,7 @@ background-color: transparent ;
 }
 .dropdown-menu{
  position: absolute !important;
- top: 0px !important;
- right: 0px !important;
- 
+ top: 17px !important;
+left: -50px !important;
+ transform:unset !important;
 }
