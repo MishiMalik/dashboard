@@ -6,32 +6,38 @@
         flex-shrink: 0 !important;
     }
 }
+
 @media only screen and (min-width:1700px) {
-    .status{
+    .status {
         padding: 1.15923px 5.79617px !important;
 
         font-size: 14px !important;
-        }
+    }
 }
+
 @media only screen and (min-width:1400px) {
     .main-section-main {
         padding-top: 120px;
     }
-    .main-sec-col2{
+
+    .main-sec-col2 {
         padding-top: 43px;
     }
-   
+
 }
+
 @media only screen and (max-width:1700px) {
     .menu-list li {
         padding-left: 35px;
     }
-    .status{
+
+    .status {
         font-size: 10px !important;
     }
 }
-@media only screen and (max-width:1470px){
-    .watch-card--text h2{
+
+@media only screen and (max-width:1470px) {
+    .watch-card--text h2 {
         font-size: 20px;
     }
 }
@@ -39,12 +45,14 @@
 
 
 @media only screen and (max-width:1400px) {
-    .watch-card--text h2{
+    .watch-card--text h2 {
         font-size: 24px;
     }
+
     .dashboard-header {
         padding: 0px 17px;
     }
+
     .user-dropdown {
         display: none;
     }
@@ -87,69 +95,72 @@
         padding-top: 25px;
 
     }
-   
-    .dashboard-main-section-p{
+
+    .dashboard-main-section-p {
         padding-left: 15px !important;
         padding-right: 15px !important;
     }
-    .desktop-table{
-      display: none;
+
+    .desktop-table {
+        display: none;
     }
-    .mobile-table-view{
+
+    .mobile-table-view {
         display: block;
     }
 }
 
 @media only screen and (max-width:767px) {
-/* =====================watch cards */
+    /* =====================watch cards */
 
-.watch-card {
-    padding: 7px;
-}
-.watch-card-img {
-    width: 44px;
-    height: 44px;
-}
+    .watch-card {
+        padding: 7px;
+    }
 
-.watch-card-img img {
-    width: 44px;
-    height: 44px;
-}
+    .watch-card-img {
+        width: 44px;
+        height: 44px;
+    }
 
-.watch-card--text {
-    margin-left: 10px;
-    text-decoration: none !important;
+    .watch-card-img img {
+        width: 44px;
+        height: 44px;
+    }
 
-}
+    .watch-card--text {
+        margin-left: 10px;
+        text-decoration: none !important;
 
-.watch-card--text h2 {
-    font-weight: 700;
-    font-size: 15px;
-    line-height: 18px;
-    color: #000000;
-    text-decoration: none !important;
+    }
 
-}
+    .watch-card--text h2 {
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 18px;
+        color: #000000;
+        text-decoration: none !important;
 
-.watch-card--text p {
-    font-weight: 500;
-    font-size: 13px;
-    line-height: 24px;
-    text-decoration: none !important;
+    }
 
-    color: #6B7280;
+    .watch-card--text p {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 24px;
+        text-decoration: none !important;
 
-}
+        color: #6B7280;
 
-.card-dropdown button {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 20px;
-    color: #22C55E;
-    background-color: transparent;
-    border: none;
-}
+    }
+
+    .card-dropdown button {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 20px;
+        color: #22C55E;
+        background-color: transparent;
+        border: none;
+    }
 
 
 
@@ -228,48 +239,53 @@
         color: #000000;
         margin: 23px 0px 23px 0px !important;
     }
-    .dashboard-main-section-p{
+
+    .dashboard-main-section-p {
         padding-left: 0px !important;
         padding-right: 0px !important;
     }
 
-    .card-dropdown{
+    .card-dropdown {
         margin-bottom: -20px;
     }
 }
 
-@media only screen and (max-width:400px){
-    .table-card h3{
+@media only screen and (max-width:400px) {
+    .table-card h3 {
         font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 12.3506px;
-    line-height: 27px;
-    color: #22C55E;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12.3506px;
+        line-height: 27px;
+        color: #22C55E;
     }
-    .table-card h4{
+
+    .table-card h4 {
         font-weight: 500;
         font-size: 9.0629px;
         line-height: 16px;
         color: #6B7280;
     }
 }
-@media only screen and (max-width:340px){
-    .table-card h3{
+
+@media only screen and (max-width:340px) {
+    .table-card h3 {
         font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 10.3506px;
-    line-height: 27px;
-    color: #22C55E;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 10.3506px;
+        line-height: 27px;
+        color: #22C55E;
     }
-    .table-card h4{
+
+    .table-card h4 {
         font-weight: 500;
         font-size: 8.0629px;
         line-height: 16px;
         color: #6B7280;
     }
-    .side-cards-col h1{
-       font-size: 11px; 
+
+    .side-cards-col h1 {
+        font-size: 11px;
     }
 }
