@@ -1,6 +1,6 @@
 $('.sidebar-icon').on('click',function(){
     $('.dashboard-sidebar-col').css('display','block');
-    $('.dashboard-sidebar-col').css('position','absolute');
+    $('.dashboard-sidebar-col').css('position','fixed');
     $('.dashboard-sidebar-col').css('top','0px');
     $('.dashboard-sidebar-col').css('right','0');
     $('.dashboard-body').css('overflow','hidden');

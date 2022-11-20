@@ -248,6 +248,14 @@
     .card-dropdown {
         margin-bottom: -20px;
     }
+    .logo-div img{
+        height: 27px;
+        width: auto;
+    }
+    .sidebar-icon img{
+        height: 27px !important;
+        width: auto !important;
+    }
 }
 
 @media only screen and (max-width:400px) {
