@@ -34,6 +34,7 @@
     .status {
         font-size: 10px !important;
     }
+
     .side-cards-col h1 {
         font-family: 'Inter';
         font-style: normal;
@@ -254,14 +255,17 @@
     .card-dropdown {
         margin-bottom: -20px;
     }
-    .logo-div img{
+
+    .logo-div img {
         height: 27px;
         width: auto;
     }
-    .sidebar-icon img{
+
+    .sidebar-icon img {
         height: 27px !important;
         width: auto !important;
     }
+
     .side-cards-col h1 {
         font-family: 'Inter';
         font-style: normal;
